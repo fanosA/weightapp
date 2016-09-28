@@ -2,14 +2,14 @@
 Platform for dietitians and their clients. Provides tools for a dietitian to monitor his clients, their nutrition habits and their weightloss progress. Two main roles, dietitian and client, with different access and tools.
 
 ###Features###
-Dietitian
+	Dietitian
 	> Add client
 	> Edit client
 	> Delete client
 	> Create nutrition plan
 	> Client compilation view
 
-Client
+	Client
 	> View meals in calendar
 	> Report comments on meals
 

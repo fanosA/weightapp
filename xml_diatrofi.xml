@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!DOCTYPE diatrofi[
+    <!ELEMENT diatrofi (pelatis*)>
+    <!ELEMENT pelatis (onoma, epitheto, baros, filo, ilikia, geyma+)>
+    <!ELEMENT onoma (#PCDATA)> 
+    <!ELEMENT epitheto (#PCDATA)>
+    <!ELEMENT baros (#PCDATA)> 
+    <!ELEMENT filo (#PCDATA)> 
+    <!ELEMENT ilikia (#PCDATA)> 
+    <!ELEMENT geyma (sxolia-diaitologou, typos-geymatos, imerominia)> 
+    <!ELEMENT sxolia-diaitologou (#PCDATA)> 
+    <!ELEMENT typos-geymatos (#PCDATA)> 
+    <!ELEMENT imerominia (#PCDATA)>
+]>
+
+<diatrofi> 
+    <pelatis> 
+        <onoma> </onoma>
+        <epitheto> </epitheto> 
+        <baros> </baros> 
+        <filo> </filo> 
+        <ilikia> </ilikia> 
+        <geyma> 
+          <sxolia-diaitologou></sxolia-diaitologou> 
+          <typos-geymatos> </typos-geymatos> 
+          <imerominia> </imerominia> 
+        </geyma> 
+    </pelatis> 
+</diatrofi>

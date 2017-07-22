@@ -4,11 +4,12 @@ Platform for dietitians and their clients. Provides tools for a dietitian to mon
 ###Features###
 
 Dietitian
-  > Add client
-  > Edit client
-  > Delete client
-  > Create nutrition plan
-  > Client compilation view
+
+> Add client
+> Edit client
+> Delete client
+> Create nutrition plan
+> Client compilation view
 
 Client
   > View meals in calendar
